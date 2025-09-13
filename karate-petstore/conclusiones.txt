@@ -1,0 +1,5 @@
+Conclusiones:
+- Karate facilita la automatización de pruebas REST sin necesidad de librerías extra.
+- Se logró probar el ciclo de vida completo de un usuario: creación, consulta, actualización y eliminación.
+- La sintaxis es simple y permite validar respuestas con pocas líneas.
+- Los reportes HTML son claros y fáciles de compartir.

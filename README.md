@@ -1,2 +1,2 @@
-# Pruebas-T-cnicas-Sofka-
+# Pruebas-Técnicas-Sofka-
 Pruebas Técnicas

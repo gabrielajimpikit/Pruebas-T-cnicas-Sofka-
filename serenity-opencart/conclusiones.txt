@@ -1,0 +1,5 @@
+Conclusiones:
+- Serenity BDD permite estructurar pruebas E2E de manera ordenada y con reportes claros.
+- El flujo de compra en OpenCart requiere manejar formularios dinámicos (país/provincia).
+- Se valida correctamente la confirmación de la orden.
+- La principal ventaja es la reutilización de pasos y generación automática de reportes.
